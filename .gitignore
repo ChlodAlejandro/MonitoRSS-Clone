@@ -108,3 +108,4 @@ settings/*
 !settings/schedules.example.json
 !settings/config.bot.example.json
 !settings/config.web.example.json
+!settings/api.js
